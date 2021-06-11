@@ -1,0 +1,1017 @@
+[
+  {
+    "name": "Cherry Bomb",
+    "recipe": [
+      { "material": "Copper Ore", "quantity": 4 },
+      { "material": "Coal", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Cherry_Bomb.png"
+  },
+  {
+    "name": "Bomb",
+    "recipe": [
+      { "material": "Iron Ore", "quantity": 4 },
+      { "material": "Coal", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Bomb.png"
+  },
+  {
+    "name": "Mega Bomb",
+    "recipe": [
+      { "material": "Gold Ore", "quantity": 1 },
+      { "material": "Solar Essence", "quantity": 1 },
+      { "material": "Void Essence", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4f/Mega_Bomb.png"
+  },
+  {
+    "name": "Gate",
+    "recipe": [{ "material": "Wood", "quantity": 10 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/94/Gate.png"
+  },
+  {
+    "name": "Wood Fence",
+    "recipe": [{ "material": "Wood", "quantity": 2 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1e/Wood_Fence.png"
+  },
+  {
+    "name": "Stone Fence",
+    "recipe": [{ "material": "Stone", "quantity": 2 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Stone_Fence.png"
+  },
+  {
+    "name": "Iron Fence",
+    "recipe": [{ "material": "Iron Bar", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Iron_Fence.png"
+  },
+  {
+    "name": "Hardwood Fence",
+    "recipe": [{ "material": "Hardwood", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Hardwood_Fence.png"
+  },
+  {
+    "name": "Sprinkler",
+    "recipe": [
+      { "material": "Copper Bar", "quantity": 1 },
+      { "material": "Iron Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/08/Sprinkler.png"
+  },
+  {
+    "name": "Quality Sprinkler",
+    "recipe": [
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Gold Bar", "quantity": 1 },
+      { "material": "Refined Quartz", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/af/Quality_Sprinkler.png"
+  },
+  {
+    "name": "Iridium Sprinkler",
+    "recipe": [
+      { "material": "Gold Bar", "quantity": 1 },
+      { "material": "Iridium Bar", "quantity": 1 },
+      { "material": "Battery Pack", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/90/Iridium_Sprinkler.png"
+  },
+
+  {
+    "name": "Basic Fertilizer",
+    "recipe": [{ "material": "Sap", "quantity": 2 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Basic_Fertilizer.png"
+  },
+  {
+    "name": "Quality Fertilizer",
+    "recipe": [
+      { "material": "Sap", "quantity": 2 },
+      { "material": "Any Fish", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Quality_Fertilizer.png"
+  },
+  {
+    "name": "Deluxe Fertilizer",
+    "recipe": [
+      { "material": "Iridium Bar", "quantity": 1 },
+      { "material": "Sap", "quantity": 40 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1c/Deluxe_Fertilizer.png"
+  },
+  {
+    "name": "Speed-Gro",
+    "recipe": [
+      { "material": "Pine Tar", "quantity": 1 },
+      { "material": "Clam", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/94/Speed-Gro.png"
+  },
+  {
+    "name": "Deluxe Speed-Gro",
+    "recipe": [
+      { "material": "Oak Resin", "quantity": 1 },
+      { "material": "Coral", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Deluxe_Speed-Gro.png"
+  },
+  {
+    "name": "Hyper Speed-Gro",
+    "recipe": [
+      { "material": "Radioactive Ore", "quantity": 1 },
+      { "material": "Bone Fragment", "quantity": 3 },
+      { "material": "Solar Essence", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/53/Hyper_Speed-Gro.png"
+  },
+  {
+    "name": "Basic Retaining Soil",
+    "recipe": [{ "material": "Stone", "quantity": 2 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Basic_Retaining_Soil.png"
+  },
+  {
+    "name": "Quality Retaining Soil",
+    "recipe": [
+      { "material": "Stone", "quantity": 3 },
+      { "material": "Clay", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Quality_Retaining_Soil.png"
+  },
+  {
+    "name": "Deluxe Retaining Soil",
+    "recipe": [
+      { "material": "Stone", "quantity": 5 },
+      { "material": "Fiber", "quantity": 3 },
+      { "material": "Clay", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Deluxe_Retaining_Soil.png"
+  },
+  {
+    "name": "Tree Fertilizer",
+    "recipe": [
+      { "material": "Fiber", "quantity": 5 },
+      { "material": "Stone", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Tree_Fertilizer.png"
+  },
+  {
+    "name": "Spring Seeds",
+    "recipe": [
+      { "material": "Wild Horseradish", "quantity": 1 },
+      { "material": "Daffodil", "quantity": 1 },
+      { "material": "Leek", "quantity": 1 },
+      { "material": "Dandelion", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/39/Spring_Seeds.png"
+  },
+  {
+    "name": "Summer Seeds",
+    "recipe": [
+      { "material": "Spice Berry", "quantity": 1 },
+      { "material": "Grape", "quantity": 1 },
+      { "material": "Sweet Pea", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Summer_Seeds.png"
+  },
+  {
+    "name": "Fall Seeds",
+    "recipe": [
+      { "material": "Common Mushroom", "quantity": 1 },
+      { "material": "Wild Plum", "quantity": 1 },
+      { "material": "Hazelnut", "quantity": 1 },
+      { "material": "Blackberry", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/55/Fall_Seeds.png"
+  },
+  {
+    "name": "Winter Seeds",
+    "recipe": [
+      { "material": "Winter Root", "quantity": 1 },
+      { "material": "Crystal Fruit", "quantity": 1 },
+      { "material": "Snow Yam", "quantity": 1 },
+      { "material": "Crocus", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/dd/Winter_Seeds.png"
+  },
+  {
+    "name": "Ancient Seeds",
+    "recipe": [{ "material": "Ancient Seed", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Ancient_Seeds.png"
+  },
+  {
+    "name": "Grass Starter",
+    "recipe": [{ "material": "Fiber", "quantity": 10 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/14/Grass_Starter.png"
+  },
+  {
+    "name": "Tea Sapling",
+    "recipe": [
+      { "material": "Wild Seeds", "quantity": 2 },
+      { "material": "Fiber", "quantity": 5 },
+      { "material": "Wood", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/12/Tea_Sapling.png"
+  },
+  {
+    "name": "Fiber Seeds",
+    "recipe": [
+      { "material": "Mixed Seeds", "quantity": 1 },
+      { "material": "Sap", "quantity": 5 },
+      { "material": "Clay", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/05/Fiber_Seeds.png"
+  },
+  {
+    "name": "Wood Floor",
+    "recipe": [{ "material": "Wood", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/58/Wood_Floor.png"
+  },
+  {
+    "name": "Rustic Plank Floor",
+    "recipe": [{ "material": "Wood", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Rustic_Plank_Floor.png"
+  },
+  {
+    "name": "Straw Floor",
+    "recipe": [
+      { "material": "Wood", "quantity": 1 },
+      { "material": "Fiber", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/85/Straw_Floor.png"
+  },
+  {
+    "name": "Weathered Floor",
+    "recipe": [{ "material": "Wood", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/2a/Weathered_Floor.png"
+  },
+  {
+    "name": "Crystal Floor",
+    "recipe": [{ "material": "Refined Quartz", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Crystal_Floor.png"
+  },
+  {
+    "name": "Stone Floor",
+    "recipe": [{ "material": "Stone", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Stone_Floor.png"
+  },
+  {
+    "name": "Stone Walkway Floor",
+    "recipe": [{ "material": "Stone", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/51/Stone_Walkway_Floor.png"
+  },
+  {
+    "name": "Brick Floor",
+    "recipe": [
+      { "material": "Clay", "quantity": 2 },
+      { "material": "Stone", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/29/Brick_Floor.png"
+  },
+  {
+    "name": "Wood Path",
+    "recipe": [{ "material": "Wood", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/e3/Wood_Path.png"
+  },
+  {
+    "name": "Gravel Path",
+    "recipe": [{ "material": "Stone", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/15/Gravel_Path.png"
+  },
+  {
+    "name": "Cobblestone Path",
+    "recipe": [{ "material": "Stone", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/90/Cobblestone_Path.png"
+  },
+  {
+    "name": "Stepping Stone Path",
+    "recipe": [{ "material": "Stone", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Stepping_Stone_Path.png"
+  },
+  {
+    "name": "Crystal Path",
+    "recipe": [{ "material": "Refined Quartz", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Crystal_Path.png"
+  },
+  {
+    "name": "Spinner",
+    "recipe": [{ "material": "Iron Bar", "quantity": 2 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/7b/Spinner.png"
+  },
+  {
+    "name": "Trap Bobber",
+    "recipe": [
+      { "material": "Copper Bar", "quantity": 1 },
+      { "material": "Sap", "quantity": 10 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/da/Trap_Bobber.png"
+  },
+  {
+    "name": "Cork Bobber",
+    "recipe": [
+      { "material": "Wood", "quantity": 10 },
+      { "material": "Hardwood", "quantity": 5 },
+      { "material": "Slime", "quantity": 10 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Cork_Bobber.png"
+  },
+  {
+    "name": "Quality Bobber",
+    "recipe": [
+      { "material": "Copper Bar", "quantity": 1 },
+      { "material": "Sap", "quantity": 20 },
+      { "material": "Solar Essence", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/01/Quality_Bobber.png"
+  },
+  {
+    "name": "Treasure Hunter",
+    "recipe": [{ "material": "Gold Bar", "quantity": 2 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/79/Treasure_Hunter.png"
+  },
+  {
+    "name": "Dressed Spinner",
+    "recipe": [
+      { "material": "Iron Bar", "quantity": 2 },
+      { "material": "Cloth", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/e8/Dressed_Spinner.png"
+  },
+  {
+    "name": "Barbed Hook",
+    "recipe": [
+      { "material": "Copper Bar", "quantity": 1 },
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Gold Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4f/Barbed_Hook.png"
+  },
+  {
+    "name": "Magnet",
+    "recipe": [{ "material": "Iron Bar", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/8c/Magnet.png"
+  },
+  {
+    "name": "Bait",
+    "recipe": [{ "material": "Bug Meat", "quantity": 1 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Bait.png"
+  },
+  {
+    "name": "Wild Bait",
+    "recipe": [
+      { "material": "Fiber", "quantity": 10 },
+      { "material": "Bug Meat", "quantity": 5 },
+      { "material": "Slime", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/da/Wild_Bait.png"
+  },
+  {
+    "name": "Magic Bait",
+    "recipe": [
+      { "material": "Radioactive Ore", "quantity": 1 },
+      { "material": "Bug Meat", "quantity": 3 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/58/Magic_Bait.png"
+  },
+  {
+    "name": "Crab Pot",
+    "recipe": [
+      { "material": "Wood", "quantity": 40 },
+      { "material": "Iron Bar", "quantity": 3 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/92/Crab_Pot.png"
+  },
+  {
+    "name": "Sturdy Ring",
+    "recipe": [
+      { "material": "Copper Bar", "quantity": 2 },
+      { "material": "Bug Meat", "quantity": 25 },
+      { "material": "Slime", "quantity": 25 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Sturdy_Ring.png"
+  },
+  {
+    "name": "Warrior Ring",
+    "recipe": [
+      { "material": "Iron Bar", "quantity": 10 },
+      { "material": "Coal", "quantity": 25 },
+      { "material": "Frozen Tear", "quantity": 10 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/13/Warrior_Ring.png"
+  },
+  {
+    "name": "Ring of Yoba",
+    "recipe": [
+      { "material": "Gold Bar", "quantity": 5 },
+      { "material": "Iron Bar", "quantity": 5 },
+      { "material": "Diamond", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/21/Ring_of_Yoba.png"
+  },
+  {
+    "name": "Thorns Ring",
+    "recipe": [
+      { "material": "Bone Fragment", "quantity": 50 },
+      { "material": "Stone", "quantity": 50 },
+      { "material": "Gold Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/5b/Thorns_Ring.png"
+  },
+  {
+    "name": "Glowstone Ring",
+    "recipe": [
+      { "material": "Solar Essence", "quantity": 5 },
+      { "material": "Iron Bar", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/65/Glowstone_Ring.png"
+  },
+  {
+    "name": "Iridium Band",
+    "recipe": [
+      { "material": "Iridium Bar", "quantity": 5 },
+      { "material": "Solar Essence", "quantity": 50 },
+      { "material": "Void Essence", "quantity": 50 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/77/Iridium_Band.png"
+  },
+  {
+    "name": "Wedding Ring",
+    "recipe": [
+      { "material": "Iridium Bar", "quantity": 5 },
+      { "material": "Prismatic Shard", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/fe/Wedding_Ring.png"
+  },
+  {
+    "name": "Field Snack",
+    "recipe": [
+      { "material": "Acorn", "quantity": 1 },
+      { "material": "Maple Seed", "quantity": 1 },
+      { "material": "Pine Cone", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Field_Snack.png"
+  },
+  {
+    "name": "Bug Steak",
+    "recipe": [{ "material": "Bug Meat", "quantity": 10 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b7/Bug_Steak.png"
+  },
+  {
+    "name": "Life Elixir",
+    "recipe": [
+      { "material": "Red Mushroom", "quantity": 1 },
+      { "material": "Purple Mushroom", "quantity": 1 },
+      { "material": "Morel", "quantity": 1 },
+      { "material": "Chanterelle", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Life_Elixir.png"
+  },
+  {
+    "name": "Oil of Garlic",
+    "recipe": [
+      { "material": "Garlic", "quantity": 10 },
+      { "material": "Oil", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Oil_of_Garlic.png"
+  },
+  {
+    "name": "Monster Musk",
+    "recipe": [
+      { "material": "Bat Wing", "quantity": 30 },
+      { "material": "Slime", "quantity": 30 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/af/Monster_Musk.png"
+  },
+  {
+    "name": "Fairy Dust",
+    "recipe": [
+      { "material": "Diamond", "quantity": 1 },
+      { "material": "Fairy Rose", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/fc/Fairy_Dust.png"
+  },
+  {
+    "name": "Warp Totem: Beach",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 1 },
+      { "material": "Coral", "quantity": 2 },
+      { "material": "Fiber", "quantity": 10 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Warp_Totem_Beach.png"
+  },
+  {
+    "name": "Warp Totem: Mountain",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 1 },
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Stone", "quantity": 25 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/d8/Warp_Totem_Mountains.png"
+  },
+  {
+    "name": "Warp Totem: Farm",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 1 },
+      { "material": "Honey", "quantity": 1 },
+      { "material": "Fiber", "quantity": 20 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Warp_Totem_Farm.png"
+  },
+  {
+    "name": "Warp Totem: Desert",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 2 },
+      { "material": "Coconut", "quantity": 1 },
+      { "material": "Iridium Ore", "quantity": 4 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b9/Warp_Totem_Island.png"
+  },
+  {
+    "name": "Warp Totem: Island",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 5 },
+      { "material": "Dragon Tooth", "quantity": 1 },
+      { "material": "Ginger", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b9/Warp_Totem_Island.png"
+  },
+  {
+    "name": "Rain Totem",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 1 },
+      { "material": "Truffle Oil", "quantity": 1 },
+      { "material": "Pine Tar", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Rain_Totem.png"
+  },
+  {
+    "name": "Torch",
+    "recipe": [
+      { "material": "Wood", "quantity": 1 },
+      { "material": "Sap", "quantity": 2 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b2/Torch.png"
+  },
+  {
+    "name": "Campfire",
+    "recipe": [
+      { "material": "Stone", "quantity": 10 },
+      { "material": "Wood", "quantity": 10 },
+      { "material": "Fiber", "quantity": 10 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/01/Campfire.png"
+  },
+  {
+    "name": "Jack-O-Lantern",
+    "recipe": [
+      { "material": "Pumpkin", "quantity": 1 },
+      { "material": "Torch", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/17/Jack-O-Lantern.png"
+  },
+  {
+    "name": "Flute Block",
+    "recipe": [
+      { "material": "Wood", "quantity": 10 },
+      { "material": "Copper Ore", "quantity": 2 },
+      { "material": "Fiber", "quantity": 20 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/31/Flute_Block.png"
+  },
+  {
+    "name": "Drum Block",
+    "recipe": [
+      { "material": "Stone", "quantity": 10 },
+      { "material": "Copper Ore", "quantity": 2 },
+      { "material": "Fiber", "quantity": 20 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/dc/Drum_Block.png"
+  },
+  {
+    "name": "Garden Pot",
+    "recipe": [
+      { "material": "Clay", "quantity": 1 },
+      { "material": "Stone", "quantity": 10 },
+      { "material": "Refined Quartz", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/2c/Garden_Pot.png"
+  },
+  {
+    "name": "Staircase",
+    "recipe": [{ "material": "Stone", "quantity": 99 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/8c/Staircase.png"
+  },
+  {
+    "name": "Explosive Ammo",
+    "recipe": [
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Coal", "quantity": 2 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/f3/Explosive_Ammo.png"
+  },
+  {
+    "name": "Transmute (Silver)",
+    "recipe": [{ "material": "Copper Bar", "quantity": 3 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/6c/Iron_Bar.png"
+  },
+  {
+    "name": "Transmute (Gold)",
+    "recipe": [{ "material": "Iron Bar", "quantity": 2 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png"
+  },
+  {
+    "name": "Cookout Kit",
+    "recipe": [
+      { "material": "Wood", "quantity": 15 },
+      { "material": "Fiber", "quantity": 10 },
+      { "material": "Coal", "quantity": 3 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/91/Cookout_Kit.png"
+  },
+  {
+    "name": "Mayonnaise Machine",
+    "recipe": [
+      { "material": "Wood", "quantity": 15 },
+      { "material": "Stone", "quantity": 15 },
+      { "material": "Earth Crystal", "quantity": 1 },
+      { "material": "Copper Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/ef/Mayonnaise_Machine.png"
+  },
+  {
+    "name": "Bee House",
+    "recipe": [
+      { "material": "Wood", "quantity": 40 },
+      { "material": "Coal", "quantity": 8 },
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Maple Syrup", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/ce/Bee_House.png"
+  },
+  {
+    "name": "Preserves Jar",
+    "recipe": [
+      { "material": "Wood", "quantity": 50 },
+      { "material": "Stone", "quantity": 40 },
+      { "material": "Coal", "quantity": 8 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1e/Preserves_Jar.png"
+  },
+  {
+    "name": "Cheese Press",
+    "recipe": [
+      { "material": "Wood", "quantity": 45 },
+      { "material": "Stone", "quantity": 45 },
+      { "material": "Hardwood", "quantity": 10 },
+      { "material": "Copper Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/79/Cheese_Press.png"
+  },
+  {
+    "name": "Loom",
+    "recipe": [
+      { "material": "Wood", "quantity": 60 },
+      { "material": "Fiber", "quantity": 30 },
+      { "material": "Pine Tar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Loom.png"
+  },
+  {
+    "name": "Keg",
+    "recipe": [
+      { "material": "Wood", "quantity": 30 },
+      { "material": "Copper Bar", "quantity": 1 },
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Oak Resin", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/7c/Keg.png"
+  },
+  {
+    "name": "Oil Maker",
+    "recipe": [
+      { "material": "Slime", "quantity": 50 },
+      { "material": "Hardwood", "quantity": 20 },
+      { "material": "Gold Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Oil_Maker.png"
+  },
+  {
+    "name": "Cask",
+    "recipe": [
+      { "material": "Wood", "quantity": 20 },
+      { "material": "Hardwood", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/7c/Cask.png"
+  },
+  {
+    "name": "Wooden Brazier",
+    "recipe": [
+      { "material": "Wood", "quantity": 10 },
+      { "material": "Coal", "quantity": 1 },
+      { "material": "Fiber", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/34/Wooden_Brazier.png"
+  },
+  {
+    "name": "Stone Brazier",
+    "recipe": [
+      { "material": "Stone", "quantity": 10 },
+      { "material": "Coal", "quantity": 1 },
+      { "material": "Fiber", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Stone_Brazier.png"
+  },
+  {
+    "name": "Gold Brazier",
+    "recipe": [
+      { "material": "Gold Bar", "quantity": 1 },
+      { "material": "Coal", "quantity": 1 },
+      { "material": "Fiber", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b7/Gold_Brazier.png"
+  },
+  {
+    "name": "Carved Brazier",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 10 },
+      { "material": "Coal", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/3c/Carved_Brazier.png"
+  },
+  {
+    "name": "Stump Brazier",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 5 },
+      { "material": "Coal", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Stump_Brazier.png"
+  },
+  {
+    "name": "Barrel Brazier",
+    "recipe": [
+      { "material": "Wood", "quantity": 50 },
+      { "material": "Solar Essence", "quantity": 1 },
+      { "material": "Coal", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/78/Barrel_Brazier.png"
+  },
+  {
+    "name": "Skull Brazier",
+    "recipe": [{ "material": "Bone Fragment", "quantity": 10 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Skull_Brazier.png"
+  },
+  {
+    "name": "Marble Brazier",
+    "recipe": [
+      { "material": "Marble", "quantity": 1 },
+      { "material": "Aquamarine", "quantity": 1 },
+      { "material": "Stone", "quantity": 100 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Marble_Brazier.png"
+  },
+  {
+    "name": "Wood Lamp-post",
+    "recipe": [
+      { "material": "Wood", "quantity": 50 },
+      { "material": "Battery Pack", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c8/Wood_Lamp-post.png"
+  },
+  {
+    "name": "Iron Lamp-post",
+    "recipe": [
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Battery Pack", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Iron_Lamp-post.png"
+  },
+  {
+    "name": "Charcoal Kiln",
+    "recipe": [
+      { "material": "Wood", "quantity": 20 },
+      { "material": "Copper Bar", "quantity": 2 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/76/Charcoal_Kiln.png"
+  },
+  {
+    "name": "Crystalarium",
+    "recipe": [
+      { "material": "Stone", "quantity": 99 },
+      { "material": "Gold Bar", "quantity": 5 },
+      { "material": "Iridium Bar", "quantity": 2 },
+      { "material": "Battery Pack", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/63/Crystalarium.png"
+  },
+  {
+    "name": "Furnace",
+    "recipe": [
+      { "material": "Copper Ore", "quantity": 20 },
+      { "material": "Stone", "quantity": 25 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/0f/Furnace.png"
+  },
+  {
+    "name": "Lightning Rod",
+    "recipe": [
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Refined Quartz", "quantity": 1 },
+      { "material": "Bat Wing", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/62/Lightning_Rod.png"
+  },
+  {
+    "name": "Solar Panel",
+    "recipe": [
+      { "material": "Refined Quartz", "quantity": 10 },
+      { "material": "Iron Bar", "quantity": 5 },
+      { "material": "Gold Bar", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Solar_Panel.png"
+  },
+  {
+    "name": "Recycling Machine",
+    "recipe": [
+      { "material": "Wood", "quantity": 25 },
+      { "material": "Stone", "quantity": 25 },
+      { "material": "Iron Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/26/Recycling_Machine.png"
+  },
+  {
+    "name": "Seed Maker",
+    "recipe": [
+      { "material": "Wood", "quantity": 25 },
+      { "material": "Coal", "quantity": 10 },
+      { "material": "Gold Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/19/Seed_Maker.png"
+  },
+  {
+    "name": "Slime Incubator",
+    "recipe": [
+      { "material": "Iridium Bar", "quantity": 2 },
+      { "material": "Slime", "quantity": 100 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c0/Slime_Incubator.png"
+  },
+  {
+    "name": "Ostrich Incubator",
+    "recipe": [
+      { "material": "Bone Fragment", "quantity": 50 },
+      { "material": "Hardwood", "quantity": 50 },
+      { "material": "Cinder Shard", "quantity": 20 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/51/Ostrich_Incubator.png"
+  },
+  {
+    "name": "Slime Egg-Press",
+    "recipe": [
+      { "material": "Coal", "quantity": 25 },
+      { "material": "Fire Quartz", "quantity": 1 },
+      { "material": "Battery Pack", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/79/Slime_Egg-Press.png"
+  },
+  {
+    "name": "Tapper",
+    "recipe": [
+      { "material": "Wood", "quantity": 40 },
+      { "material": "Copper Bar", "quantity": 2 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/da/Tapper.png"
+  },
+  {
+    "name": "Heavy Tapper",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 30 },
+      { "material": "Radioactive Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Heavy_Tapper.png"
+  },
+  {
+    "name": "Worm Bin",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 25 },
+      { "material": "Gold Bar", "quantity": 1 },
+      { "material": "Iron Bar", "quantity": 1 },
+      { "material": "Fiber", "quantity": 50 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/71/Worm_Bin.png"
+  },
+  {
+    "name": "Bone Mill",
+    "recipe": [
+      { "material": "Bone Fragment", "quantity": 10 },
+      { "material": "Clay", "quantity": 3 },
+      { "material": "Stone", "quantity": 20 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Bone_Mill.png"
+  },
+  {
+    "name": "Geode Crusher",
+    "recipe": [
+      { "material": "Gold Bar", "quantity": 2 },
+      { "material": "Stone", "quantity": 50 },
+      { "material": "Diamond", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/02/Geode_Crusher.png"
+  },
+  {
+    "name": "Tub o' Flowers",
+    "recipe": [
+      { "material": "Wood", "quantity": 15 },
+      { "material": "Tulip Bulb", "quantity": 1 },
+      { "material": "Jazz Seeds", "quantity": 1 },
+      { "material": "Poppy Seeds", "quantity": 1 },
+      { "material": "Spangle Seeds", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/d9/Tub_o%27_Flowers.png"
+  },
+  {
+    "name": "Wicked Statue",
+    "recipe": [
+      { "material": "Stone", "quantity": 25 },
+      { "material": "Coal", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Wicked_Statue.png"
+  },
+  {
+    "name": "Chest",
+    "recipe": [{ "material": "Wood", "quantity": 50 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b3/Chest.png"
+  },
+  {
+    "name": "Stone Chest",
+    "recipe": [{ "material": "Stone", "quantity": 50 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Stone_Chest.png"
+  },
+  {
+    "name": "Wood Sign",
+    "recipe": [{ "material": "Wood", "quantity": 25 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/ce/Wood_Sign.png"
+  },
+  {
+    "name": "Stone Sign",
+    "recipe": [{ "material": "Stone", "quantity": 25 }],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/f3/Stone_Sign.png"
+  },
+  {
+    "name": "Dark Sign",
+    "recipe": [
+      { "material": "Bat Wing", "quantity": 5 },
+      { "material": "Bone Fragment", "quantity": 5 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/72/Dark_Sign.png"
+  },
+  {
+    "name": "Scarecrow",
+    "recipe": [
+      { "material": "Wood", "quantity": 50 },
+      { "material": "Coal", "quantity": 1 },
+      { "material": "Fiber", "quantity": 20 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/75/Scarecrow.png"
+  },
+  {
+    "name": "Deluxe Scarecrow",
+    "recipe": [
+      { "material": "Wood", "quantity": 50 },
+      { "material": "Fiber", "quantity": 40 },
+      { "material": "Iridium Ore", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/59/Deluxe_Scarecrow.png"
+  },
+  {
+    "name": "Mini-Jukebox",
+    "recipe": [
+      { "material": "Iron Bar", "quantity": 2 },
+      { "material": "Battery Pack", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/02/Mini-Jukebox.png"
+  },
+  {
+    "name": "Mini-Obelisk",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 30 },
+      { "material": "Solar Essence", "quantity": 20 },
+      { "material": "Gold Bar", "quantity": 3 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c9/Mini-Obelisk.png"
+  },
+  {
+    "name": "Farm Computer",
+    "recipe": [
+      { "material": "Dwarf Gadget", "quantity": 1 },
+      { "material": "Battery Pack", "quantity": 1 },
+      { "material": "Refined Quartz", "quantity": 10 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Farm_Computer.png"
+  },
+  {
+    "name": "Hopper",
+    "recipe": [
+      { "material": "Hardwood", "quantity": 10 },
+      { "material": "Iridium Bar", "quantity": 1 },
+      { "material": "Radioactive Bar", "quantity": 1 }
+    ],
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/81/Hopper.png"
+  }
+]

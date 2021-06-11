@@ -1,0 +1,403 @@
+[
+  {
+    "name": "Wood",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/df/Wood.png"
+  },
+  {
+    "name": "Hardwood",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Hardwood.png"
+  },
+
+  {
+    "name": "Fiber",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/45/Fiber.png"
+  },
+  {
+    "name": "Sap",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/73/Sap.png"
+  },
+  {
+    "name": "Maple Syrup",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Maple_Syrup.png"
+  },
+  {
+    "name": "Oak Resin",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/40/Oak_Resin.png"
+  },
+  {
+    "name": "Pine Tar",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/ce/Pine_Tar.png"
+  },
+  {
+    "name": "Acorn",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/cd/Acorn.png"
+  },
+  {
+    "name": "Maple Seed",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/36/Maple_Seed.png"
+  },
+  {
+    "name": "Pine Cone",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/90/Pine_Cone.png"
+  },
+  {
+    "name": "Stone",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Stone.png"
+  },
+  {
+    "name": "Coal",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/a7/Coal.png"
+  },
+  {
+    "name": "Clay",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
+  },
+  {
+    "name": "Copper Ore",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/78/Copper_Ore.png"
+  },
+  {
+    "name": "Copper Bar",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Copper_Bar.png"
+  },
+  {
+    "name": "Iron Ore",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/87/Iron_Ore.png"
+  },
+  {
+    "name": "Iron Bar",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/6c/Iron_Bar.png"
+  },
+  {
+    "name": "Gold Ore",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Gold_Ore.png"
+  },
+  {
+    "name": "Gold Bar",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png"
+  },
+  {
+    "name": "Iridium Ore",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Iridium_Ore.png"
+  },
+  {
+    "name": "Iridium Bar",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png"
+  },
+  {
+    "name": "Radioactive Ore",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Radioactive_Ore.png"
+  },
+  {
+    "name": "Radioactive Bar",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Radioactive_Bar.png"
+  },
+  {
+    "name": "Refined Quartz",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/98/Refined_Quartz.png"
+  },
+  {
+    "name": "Earth Crystal",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png"
+  },
+  {
+    "name": "Fire Quartz",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/5b/Fire_Quartz.png"
+  },
+  {
+    "name": "Frozen Tear",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png"
+  },
+  {
+    "name": "Aquamarine",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png"
+  },
+  {
+    "name": "Marble",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/82/Marble.png"
+  },
+  {
+    "name": "Diamond",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
+  },
+  {
+    "name": "Prismatic Shard",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/56/Prismatic_Shard.png"
+  },
+  {
+    "name": "Cinder Shard",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Cinder_Shard.png"
+  },
+  {
+    "name": "Battery Pack",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/25/Battery_Pack.png"
+  },
+  {
+    "name": "Cloth",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png"
+  },
+  {
+    "name": "Truffle Oil",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Truffle_Oil.png"
+  },
+  {
+    "name": "Honey",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png"
+  },
+  {
+    "name": "Solar Essence",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Solar_Essence.png"
+  },
+  {
+    "name": "Void Essence",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1f/Void_Essence.png"
+  },
+  {
+    "name": "Bone Fragment",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/97/Bone_Fragment.png"
+  },
+  {
+    "name": "Bat Wing",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/35/Bat_Wing.png"
+  },
+  {
+    "name": "Slime",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/38/Slime.png"
+  },
+  {
+    "name": "Bug Meat",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Bug_Meat.png"
+  },
+  {
+    "name": "Any Fish",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png"
+  },
+  {
+    "name": "Clam",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png"
+  },
+  {
+    "name": "Coral",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png"
+  },
+  {
+    "name": "Wild Horseradish",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
+  },
+  {
+    "name": "Daffodil",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
+  },
+  {
+    "name": "Leek",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png"
+  },
+  {
+    "name": "Dandelion",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
+  },
+  {
+    "name": "Spice Berry",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png"
+  },
+  {
+    "name": "Grape",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png"
+  },
+  {
+    "name": "Sweet Pea",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png"
+  },
+  {
+    "name": "Common Mushroom",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png"
+  },
+  {
+    "name": "Wild Plum",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png"
+  },
+  {
+    "name": "Hazelnut",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png"
+  },
+  {
+    "name": "Blackberry",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png"
+  },
+  {
+    "name": "Winter Root",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png"
+  },
+  {
+    "name": "Crystal Fruit",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/16/Crystal_Fruit.png"
+  },
+  {
+    "name": "Snow Yam",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png"
+  },
+  {
+    "name": "Crocus",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png"
+  },
+  {
+    "name": "Ancient Seed",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/af/Ancient_Seed.png"
+  },
+  {
+    "name": "Wild Seeds",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/3/39/Spring_Seeds.png"
+  },
+  {
+    "name": "Mixed Seeds",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Mixed_Seeds.png"
+  },
+  {
+    "name": "Tulip Bulb",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/42/Tulip_Bulb.png"
+  },
+  {
+    "name": "Jazz Seeds",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/9/95/Jazz_Seeds.png"
+  },
+  {
+    "name": "Poppy Seeds",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Poppy_Seeds.png"
+  },
+  {
+    "name": "Spangle Seeds",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/85/Spangle_Seeds.png"
+  },
+  {
+    "name": "Red Mushroom",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Red_Mushroom.png"
+  },
+  {
+    "name": "Purple Mushroom",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png"
+  },
+  {
+    "name": "Morel",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png"
+  },
+  {
+    "name": "Chanterelle",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png"
+  },
+  {
+    "name": "Garlic",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png"
+  },
+  {
+    "name": "Pumpkin",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
+  },
+  {
+    "name": "Oil",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/0/06/Oil.png"
+  },
+  {
+    "name": "Fairy Rose",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png"
+  },
+  {
+    "name": "Coconut",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
+  },
+  {
+    "name": "Dragon Tooth",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/87/Dragon_Tooth.png"
+  },
+  {
+    "name": "Ginger",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png"
+  },
+  {
+    "name": "Torch",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/b/b2/Torch.png"
+  },
+  {
+    "name": "Dwarf Gadget",
+    "quantity": 0,
+    "img": "https://stardewvalleywiki.com/mediawiki/images/5/58/Dwarf_Gadget.png"
+  }
+]
