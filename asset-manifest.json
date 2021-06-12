@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/stardew-helper/static/css/main.19607ba9.chunk.css",
+    "main.js": "/stardew-helper/static/js/main.e2555c06.chunk.js",
+    "main.js.map": "/stardew-helper/static/js/main.e2555c06.chunk.js.map",
+    "runtime-main.js": "/stardew-helper/static/js/runtime-main.453a039d.js",
+    "runtime-main.js.map": "/stardew-helper/static/js/runtime-main.453a039d.js.map",
+    "static/js/2.46e54d6b.chunk.js": "/stardew-helper/static/js/2.46e54d6b.chunk.js",
+    "static/js/2.46e54d6b.chunk.js.map": "/stardew-helper/static/js/2.46e54d6b.chunk.js.map",
+    "index.html": "/stardew-helper/index.html",
+    "static/css/main.19607ba9.chunk.css.map": "/stardew-helper/static/css/main.19607ba9.chunk.css.map",
+    "static/js/2.46e54d6b.chunk.js.LICENSE.txt": "/stardew-helper/static/js/2.46e54d6b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/stardew-helper/static/media/Stardew_Valley.94d4418a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.453a039d.js",
+    "static/js/2.46e54d6b.chunk.js",
+    "static/css/main.19607ba9.chunk.css",
+    "static/js/main.e2555c06.chunk.js"
+  ]
+}
