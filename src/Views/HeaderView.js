@@ -33,7 +33,7 @@ const headerStyles = makeStyles({
     borderRadius: "10px",
     maxWidth: "1080px",
   },
-  dialogueText: {
+  dialogText: {
     fontFamily: "Stardew",
     fontSize: "20pt",
     color: "#872C2C",
@@ -75,15 +75,16 @@ export const HeaderView = () => {
           setShowInstructions(false);
         }}
         classes={{ paper: classes.dialogPaper }}
+        aria-label="how-to-use-dialog"
       >
-        <p className={classes.dialogueText}>
+        <p className={classes.dialogText}>
           This website was made to help players with the Craft Master
           Achievement in Stardew Valley
         </p>
-        <p className={classes.dialogueText}>
+        <p className={classes.dialogText}>
           Items can be selected and de-selected by clicking on them
         </p>
-        <p className={classes.dialogueText}>
+        <p className={classes.dialogText}>
           The material count is updated to reflect the amount of each material
           required to craft the selected items
         </p>
@@ -94,26 +95,27 @@ export const HeaderView = () => {
           setShowCredits(false);
         }}
         classes={{ paper: classes.dialogPaper }}
+        aria-label="credits-dialog"
       >
-        <p className={classes.dialogueText}>
+        <p className={classes.dialogText}>
           This website was made by NerajM, and the source code can be found on{" "}
           <a href="https://www.github.com/NerajM/stardew-helper">Github</a>
         </p>
-        <p className={classes.dialogueText}>
+        <p className={classes.dialogText}>
           <a href="https://www.stardewvalley.net/">Stardew Valley</a> is
           developed by ConcernedApe, who holds copyright on all game assets
         </p>
-        <p className={classes.dialogueText}>
+        <p className={classes.dialogText}>
           All item data, recipes and images sourced from the{" "}
           <a href="https://stardewvalleywiki.com/Stardew_Valley_Wiki">
             Stardew Wiki
           </a>
         </p>
-        <p className={classes.dialogueText}>
+        <p className={classes.dialogText}>
           Title Banner sourced from the{" "}
           <a href="https://www.kdau.com/scrollish/">Stardew Scroll Generator</a>
         </p>
-        <p className={classes.dialogueText}>
+        <p className={classes.dialogText}>
           Font sourced from{" "}
           <a href="https://www.reddit.com/r/StardewValley/comments/4dtgp7/by_popular_request_a_stardew_valley_font_for_your/">
             this Reddit post

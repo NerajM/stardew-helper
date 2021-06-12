@@ -52,14 +52,14 @@ const recipesViewStyles = makeStyles({
  * @param {Array.<Object>} recipe Array of ingredients and their quantities
  * @return {Array.<Object>} array of materials with updated quantities
  */
-const increaseMaterialQuantities = (materialList, recipe) => {
+export const increaseMaterialQuantities = (materialList, recipe) => {
   recipe.forEach((ingredient) => {
     const { name, quantity } = ingredient;
     materialList[
       materialList.findIndex((material) => material.name === name)
     ].quantity += quantity;
   });
-  return materialData;
+  return materialList;
 };
 
 /**
@@ -68,14 +68,14 @@ const increaseMaterialQuantities = (materialList, recipe) => {
  * @param {Array.<Object>} recipe Array of ingredients and their quantities
  * @return {Array.<Object>} array of materials with updated quantities
  */
-const decreaseMaterialQuantities = (materialList, recipe) => {
+export const decreaseMaterialQuantities = (materialList, recipe) => {
   recipe.forEach((ingredient) => {
     const { name, quantity } = ingredient;
     materialList[
       materialList.findIndex((material) => material.name === name)
     ].quantity -= quantity;
   });
-  return materialData;
+  return materialList;
 };
 
 /**
@@ -83,7 +83,7 @@ const decreaseMaterialQuantities = (materialList, recipe) => {
  * @param {Array.<Object>} materialList Array of materials and their quantities
  * @return {Array.<Object>} array of materials with all quantities as zero
  */
-const clearMaterialQuantities = (materialList) => {
+export const clearMaterialQuantities = (materialList) => {
   materialList.forEach((material) => (material.quantity = 0));
   return [...materialList];
 };
@@ -94,7 +94,7 @@ const clearMaterialQuantities = (materialList) => {
  * @param {String} name Name of the craft item to be added
  * @return {Array.<String>} updated selected craft items
  */
-const addToSelectedItems = (selectedItems, name) => {
+export const addToSelectedItems = (selectedItems, name) => {
   return [...selectedItems, name];
 };
 
@@ -104,7 +104,7 @@ const addToSelectedItems = (selectedItems, name) => {
  * @param {String} name Name of the craft item to be removed
  * @return {Array.<String>} updated selected craft items
  */
-const removeFromSelectedItems = (selectedItems, name) => {
+export const removeFromSelectedItems = (selectedItems, name) => {
   return selectedItems.filter((selectedItem) => selectedItem !== name);
 };
 
@@ -124,7 +124,7 @@ export const BodyView = () => {
                 <>
                   <b>{name}</b>
                   {recipe.map((ingredient) => (
-                    <p>
+                    <p key={ingredient.name}>
                       {ingredient.name}: {ingredient.quantity}
                     </p>
                   ))}
