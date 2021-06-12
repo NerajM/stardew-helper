@@ -1,11 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { App } from "./App";
+import { BodyView } from "./Views/BodyView";
+import { HeaderView } from "./Views/HeaderView";
 import "./index.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <>
+      <HeaderView />
+      <BodyView />
+    </>
   </React.StrictMode>,
   document.getElementById("root")
 );
